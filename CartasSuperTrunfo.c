@@ -73,6 +73,10 @@ int main(){
 
     printf("digite cidadeC01,\n");
     scanf("%d",&cidadeC01);
+    printf("digite cidadeC02,\n");
+    scanf("%d",&cidadeC02);
+    printf("digite a cidadeC03,\n");
+    scanf("%d",&cidadeC03);
 
 
 
